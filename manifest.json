@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Twitter Rollback Analytics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hide some analytics elements in some Tweet Views",
   "icons": {
     "48": "icon48.png"
